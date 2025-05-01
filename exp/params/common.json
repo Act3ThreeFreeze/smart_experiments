@@ -1,5 +1,5 @@
 {
-    "home_dir" : "/users/TempUser",
+    "home_dir" : "/users/PatDaGr8",
 
     "cluster_ips": ["10.10.1.1", "10.10.1.2", "10.10.1.3"],
     "master_ip": "10.10.1.2",
